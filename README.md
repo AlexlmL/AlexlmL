@@ -4,6 +4,7 @@ Hi, I'm **Alexander Cantoral** – a Software Engineering student at UPC and a p
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-alberto-cantoral-sedamano-9b756416b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alexcantsed@hotmail.com) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://alexcs.is-a.dev/)
 
 ## 🎓 Certifications & Continuous Learning
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/user/4d285aa0db0ad25e5b62d1404ddffd69)
