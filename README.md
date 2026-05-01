@@ -1,5 +1,10 @@
 # ⚡ About Me:
-Hi, I'm **Alexander Cantoral** – a Software Engineering student at UPC and a passionate developer focused on **web, mobile, and cloud solutions**.  <br>I enjoy building functional and user-friendly applications, from frontend interfaces to backend systems, always seeking to improve **usability, scalability, and performance**.<br><br>I worked as a **Frontend Web Intern at NEONHOUSELED S.A.C.**, developing new features and maintaining company websites using **React, Laravel, and MySQL**.  <br>My academic projects include full-stack applications built with **Vue, Angular, Java, Kotlin, and Flutter**, as well as experience in **DevOps practices, cloud platforms, and agile methodologies**.
+Hi, I'm **Alexander Cantoral** – a Software Engineering student at UPC and a passionate developer focused on **web, mobile, and cloud solutions**.  
+I enjoy building functional and user-friendly applications, from frontend interfaces to backend systems, always seeking to improve **usability, scalability, and performance**.
+
+I worked as a **Developer I at Avatar Global**, contributing to the full stack development of **Tailoy**, an e-commerce storefront built on **Salesforce Commerce Cloud (SFCC)** using the **SFRA architecture**, with CI/CD pipelines, ERP integrations, and agile methodologies.  
+Previously, I worked as a **Frontend Web Intern at NEONHOUSELED S.A.C.**, developing new features and maintaining company websites using **React, Laravel, and MySQL**.  
+My academic projects include full-stack applications built with **Vue, Angular, Java, Kotlin, and Flutter**, as well as experience in **DevOps practices, cloud platforms, and agile methodologies**.
 
 
 ## 🌐 Socials:
@@ -25,7 +30,6 @@ Hi, I'm **Alexander Cantoral** – a Software Engineering student at UPC and a p
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) 
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -38,6 +42,9 @@ Hi, I'm **Alexander Cantoral** – a Software Engineering student at UPC and a p
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Salesforce Commerce Cloud](https://img.shields.io/badge/Salesforce%20Commerce%20Cloud-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlexlmL&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
